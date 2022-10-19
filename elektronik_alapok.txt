@@ -1,0 +1,115 @@
+
+
+
+mi a led jelölése?/dióda stb.
+
+
+-------------------------------------------------------------------
+ 
+Watt (jele W) - teljesítmény  - 1 watt = 1 volt · amper
+Amper (jele A) -  elektromos áram erősségének 
+Dióda - áram egyenirányítása (egy irányba megy)
+Relé/jelfogó - kapcsoló
+tranzisztor - jel erősítő / kapcsoló
+volt (jele V) - elektromos feszültség 
+Ohm (jele Ω) - elektromos ellenállás
+
+
+A vezetékkel összekapcsolt áramforrás és fogyasztó áramkört alkot.
+Tartós elektromos áram csak zárt áramkörben jöhet létre.
+Az áramkör nyitása, zárása legtöbbször kapcsolóval történik. 
+
+
+
+
+a led egy világító dióda ami 2V környékét szereti
+minden ledhez használunk ellenállást
+túl nagy feszültség esetén kiég
+anód pozitív / katód negatív
+a led egy minimális ellenállás
+
+
+
+Soros kapcsolás
+
+	A soros kapcsolás során a fogyasztókat egymás után, elágazás nélkül kötjük össze.
+
+	Az elektronoknak csak egyetlen útjuk van.
+
+	A soros kapcsolás esetén, ha bármelyik fogyasztó elromlik, akkor a többi sem működik
+
+	Az áramerősség minden fogyasztón ugyanannyi: I=I1=I2, így az ampermérőt az áramkör bármely pontjához beiktathatjuk
+
+
+
+
+Párhuzamos kapcsolás
+
+	Ebben az esetben a fogyasztókat egy-egy külön ágra kapcsoljuk, elágazással.
+
+	Az elektronoknak több útjuk is van.
+
+	Ha valamelyik fogyasztó kiesik az áramkörből, a többi ágon még tud folyni az áram.
+
+	Az főágban folyó áramerősség pedig a mellékágak áramerősségeinek összege lesz: I=I1+I2.
+
+	Az áramerősség méréséhez szükséges ampermérőt mindig azzal fogyasztóval sorosan kötjük az áramkörbe,
+	amit meg szeretnénk mérni, mivel a soros kötésnél ugyanakkora lesz az áramerősség.
+
+
+
+
+Ω = V / A 
+Ohm törvény képlete
+
+	I = V / R
+
+	Az ellenállás I áramerőssége amperekben (A) megegyezik az ellenállás V feszültségével (V) osztva az R ellenállással ohmos (Ω):
+
+	V az ellenállás feszültségesése voltban (V) mérve. Bizonyos esetekben Ohm törvénye az E betűt használja a feszültség képviseletére. E elektromotoros erőt jelöl.
+
+	I az ellenálláson átáramló elektromos áram, amperben (A) mérve
+
+	R az ellenállás ellenállása Ohm-ban (Ω) mérve
+
+
+
+
+Feszültség kiszámítása
+
+	V = I * R
+
+
+
+
+Ellenállás számítása
+	
+	R = V / I
+
+
+
+Teljesítmény számítás: 
+	1 amper x 1 volt = 1 watt
+	P = U × I
+
+	A teljesítmény kiszámítása feszültség és áramerősség
+
+	A teljesítményt úgy kapjuk meg, ha a fogyasztóra kapcsolt feszültséget megszorozzuk az átfolyó áram erősségével.
+	P = U × I, ahol P a terjesítmény wattban, U a feszültség voltban, I az áramerősség amperban.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
