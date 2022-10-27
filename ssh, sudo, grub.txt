@@ -1,0 +1,44 @@
+mit kell tudni a grub-ról?
+GRUB egy bootloader rendszer. A GRUB lehetővé teszi több OP rendszer tároljon a 
+számítógép és indításkor kiválaszthatjuk melyiket szerenénk használni.
+
+mi az a  /bin/bash?
+A legáltalánosabban használt Shell a felhasználó bejelentkezéshez a Linux rendszerekhez
+
+milyen fontosabb paraméterei vannak a mount parancsnak?
+-a
+-F
+-h
+-l
+-L
+-M
+-O
+-r
+-R
+-t
+-T
+-v
+-V
+
+hogyan lehet fájlattribútumokat módosítani?
+Használhatjuk a chattr parancsot.
+
+hogyan lehet a jelszót megváltoztatni?
+passwd paranccsal
+
+hol kerülnek a jelszavak eltárolásra, és hogyan?
+/etc/shadow
+
+mire jó a sudo?
+A sudo egy olyan alkalmazás az Unix-szerű operációs rendszert futtató számítógépek számára, amely lehetővé teszi egy felhasználó számára, 
+hogy egy másik felhasználó biztonsági jogosultságaival futtasson programokat.
+
+" ssh?
+A Secure Shell egy szabványcsalád, és egyben egy protokoll is, amit egy helyi és egy távoli számítógép 
+közötti biztonságos csatorna kiépítésére fejlesztettek ki.
+
+hogyan lehet ssh-val csatlakozni a linuxhoz?
+ ssh [username]@[server IP] 
+
+hol tárolja a windows a ssh-val csatlakoztatott hostok listáját?
+ C:\Users\username\. ssh\.

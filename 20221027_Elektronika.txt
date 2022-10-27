@@ -1,0 +1,33 @@
+circle simulator
+
+draw menü 
+- add box
+- add text
+- input menü - source (logikai áramkörök)(ezek fönt megy be (+))(lent megy ki (-))
+- logikai bemenet(logic input)(ezeket baloldalra kell rakni)(és jobbra mennek ki)
+
+resistor (ellenállás(r))
+add component - NPN transistor
+
+test point
+
+input and sourves - V áram
+g betű negatív vég pont
+output kis o (mellette az input)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
