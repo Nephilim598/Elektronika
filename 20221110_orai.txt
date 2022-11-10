@@ -1,0 +1,65 @@
+kondenzátor - kis mennyiségű feszültség rövid ideig való tárolására alkalmas / nagyon gyorsan fel lehet tölteni és gyorsan le is merül.
+jelére rákeresni (egy vízszintes vonal két függőleges vonallal metszve)
+a kondenzátornak két lába van (poz,neg)
+
+a kapacitás fő jellemzője a tárolt töltést jelzi 
+mértékegysége fahrad
+
+élsimítás (váltóáramnál) Ha túl sok az áram akkor elvesz ha kevés akkor vissza táplál a rendszerbe.
+
+a kondenzátor másik használati lehetősége időzítés
+(A kondik feltöltése és kisütése mindig fix idő tartam)
+
+Az elektrolit kondenzátorok hosszabb ideig és képesek tárolni az áramot(henger alakú)
+
+Veszélyei: 
+- ha púpos akkor az elektrolit oxidálódik (hamarosan kipukkanhat)
+- fordított töltés esetén is tönkremegy (kipukkan)
+- nem lehet látni hogy van e benne visszamaradt töltés
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
