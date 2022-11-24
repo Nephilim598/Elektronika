@@ -1,0 +1,7 @@
+boole algebra
+a különböző logikai műveletek számolhatóak vele
+
+univerzális kapu
+amivel az összes többi logikai kapu megépíthető
+pl: nand
+azért használják mert olcsóbb mint ha sok különböző kaput használnánk
